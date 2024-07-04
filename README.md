@@ -35,6 +35,7 @@ it can be made undetectable again.
 
 ## [Notes]
 
-1. Don't limit in pvp. It will get you banned very fast
-2. Be cautious limiting in public lfg lobbies. Netlimiter is more known than it used to be, many people can notice when it's happening
-3. Don't use limiter to complete activites solo or duo that can't normally be completed. It's a fairly common giveaway to bungie that you've been limiting
+1. If your antivirus flags this as a virus it is a false positive. It happens because of the randomised strings.
+2. Don't limit in pvp. It will get you banned very fast
+3. Be cautious limiting in public lfg lobbies. Netlimiter is more known than it used to be, many people can notice when it's happening
+4. Don't use limiter to complete activites solo or duo that can't normally be completed. It's a fairly common giveaway to bungie that you've been limiting
