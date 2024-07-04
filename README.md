@@ -26,7 +26,7 @@ it can be made undetectable again.
 4. Finish the install but don't click run at the end.
 5. Download the files from this repo
 6. Open cmd as admin and type `net stop nlsvc`
-7. Copy the files from the download to the installation path
+7. Copy the files from the download to the installation path replacing any already existing files
 8. Run `5igrcFBDcA.exe`
 9. Click the "Start" button to restart the service
 10. You're all Done :)
