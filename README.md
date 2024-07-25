@@ -14,6 +14,8 @@
 Around the time King's Fall was released, Bungie pushed a silent update to their anti-cheat causing Netlimiter to become detected. However, with very little work on the software
 it can be made undetectable again. This is my limiter I've been working on for some time, including a never ending license along with a hotkey rework
 
+If this ever becomes detected again, I will do some more work with it and find a workaround, until then there is very little to add or change.
+
 # [ how-to ]
 
 </div>
