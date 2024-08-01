@@ -16,6 +16,8 @@ it can be made undetectable again. This is my limiter I've been working on for s
 
 If this ever becomes detected again, I will do some more work with it and find a workaround, until then there is very little to add or change.
 
+<b>Also worth noting. Even though this project was made specifically for Destiny 2. That doesn't mean it won't work on other games. I have tested this on Call of Duty, CS2, DayZ, Rust, etc. It works on all of them.</b>
+
 # [ how-to ]
 
 </div>
